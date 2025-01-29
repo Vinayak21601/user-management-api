@@ -41,16 +41,10 @@ Clone the repository to your local machine. 🖥️
 
 Install the necessary dependencies by running the following command:
 
-Copy
-Edit
 npm install
+npm run dev
 Start the development server:
-
-sql
-Copy
-Edit
-npm start
-The application will be running at http://localhost:3000. 🌐
+The application will be running at localhost🌐
 
 API Integration 🔌
 This application expects an API that supports the following actions:
