@@ -12,15 +12,15 @@ Edit
 [
   {
     "id": 1,
-    "name": "John Doe",
-    "email": "johndoe@example.com",
-    "dob": "1990-01-01"
+    "name": "Vinayak Devare",
+    "email": "vinayak@example.com",
+    "dob": "2001-01-01"
   },
   {
     "id": 2,
-    "name": "Jane Smith",
-    "email": "janesmith@example.com",
-    "dob": "1985-05-12"
+    "name": "Rahul Singh",
+    "email": "rahul@example.com",
+    "dob": "1999-05-12"
   }
 ]
 Status Codes:
@@ -37,9 +37,9 @@ json
 Copy
 Edit
 {
-  "name": "John Updated",
-  "email": "johnupdated@example.com",
-  "dob": "1991-02-15"
+  "name": Vinayak Updated",
+  "email": "vinayakupdated@example.com",
+  "dob": "2001-02-15"
 }
 Response: Returns a success message if the user is successfully updated.
 Status Codes:
